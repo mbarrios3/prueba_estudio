@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+dist/
+.env
+cypress
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+cypress.config.js
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
