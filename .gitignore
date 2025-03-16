@@ -2,12 +2,12 @@
 node_modules/
 dist/
 .env
-cypress
+cypress/
 
 # Archivos de sistema
 .DS_Store
 Thumbs.db
-cypress.config.js
+.cypress.config.js
 
 # Logs
 *.log
